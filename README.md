@@ -1,2 +1,3 @@
 # ruvinik_SQA
-for source code store.
+for source code and documents store.
+Development branch
